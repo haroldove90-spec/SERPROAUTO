@@ -1,0 +1,7 @@
+{
+  "name": "SERPROAUTO Dashboard",
+  "description": "A comprehensive dashboard for Kia Mexico technicians to manage vehicles in service, including registration, diagnostics, repairs, and reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
